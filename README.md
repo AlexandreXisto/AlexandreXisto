@@ -1,9 +1,9 @@
-### Hello there! I'm Alexandre Xisto, really glad to see you here!
+### Hello there! I'm Alexandre Xisto, really glad to see you here! 😉
 Let me introduce myself!
 
-Front-end Development in Improving!
+Front-end Development in Improving! 🚀
 I'm studying Front-End frameworkd as Javascript 🚀
-I'm looking for a Job as Front-End Development
+I'm looking for a Job as Front-End Development 
 I'm currently unployed, but put all of my effort in my bootcamps and projects!
 
 Contact me in these links bellow:
