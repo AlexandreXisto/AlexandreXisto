@@ -2,7 +2,7 @@
 Front-end Development in Improving!
 I'm studying Front-End frameworkd as Javascript 🚀
 I'm looking for a Job as Front-End Development
-I'm currently employed, but put all of my effort in my bootcamps and projects!
+I'm currently unployed, but put all of my effort in my bootcamps and projects!
 
 email: cxalexandre@outlook.com
 Linkedin: https://www.linkedin.com/in/alexandrexisto/
