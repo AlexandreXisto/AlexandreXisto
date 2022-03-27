@@ -4,6 +4,8 @@ I'm studying Front-End frameworkd as Javascript 🚀
 I'm looking for a Job as Front-End Development
 I'm currently unployed, but put all of my effort in my bootcamps and projects!
 
+Contact me in these links bellow:
+
 email: cxalexandre@outlook.com
 Linkedin: https://www.linkedin.com/in/alexandrexisto/
 
