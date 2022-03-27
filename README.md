@@ -4,6 +4,9 @@ I'm studying Front-End frameworkd as Javascript 🚀
 I'm looking for a Job as Front-End Development
 I'm currently employed, but put all of my effort in my bootcamps and projects!
 
+![png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange](https://user-images.githubusercontent.com/85184457/160262768-b126923a-f512-4577-8d0a-bb512ede8d8c.png)
+
+
 email: cxalexandre@outlook.com
 Linkedin: https://www.linkedin.com/in/alexandrexisto/
 
