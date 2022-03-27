@@ -1,6 +1,8 @@
-### Hello there! I'm Alexandre Xisto, Front-end Development in curse
-i'm studying Front-End frameworkd as Javascript 🐱‍�✔
+### Hello there! I'm Alexandre Xisto 
+Front-end Development in Improving!
+I'm studying Front-End frameworkd as Javascript 🚀
 I'm looking for a Job as Front-End Development
+
 
  
 <!--
