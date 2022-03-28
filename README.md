@@ -6,7 +6,7 @@ Let me introduce myself!
 <li>I'm looking for a Job as Front-End Development</li> 
 <li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
 
-Contact me in these links bellow:
+<br>Contact me in these links bellow:
 
 email: cxalexandre@outlook.com
 Linkedin: https://www.linkedin.com/in/alexandrexisto/
