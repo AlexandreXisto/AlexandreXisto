@@ -1,10 +1,10 @@
 ### Hello there! I'm Alexandre Xisto, really glad to see you here! 😉  <p>Note: This Profile is under mainintence! 🚫</p>
 Let me introduce myself!
 
-Front-end Development in Improving! 🚀
-I'm studying Front-End frameworkd as Javascript 🚀
-I'm looking for a Job as Front-End Development 
-I'm currently unployed, but put all of my effort in my bootcamps and projects!
+<li>Front-end Development in Improving! 🚀</li>
+<li>I'm studying Front-End frameworkd as Javascript 🚀</li>
+<li>I'm looking for a Job as Front-End Development</li> 
+<li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
 
 Contact me in these links bellow:
 
