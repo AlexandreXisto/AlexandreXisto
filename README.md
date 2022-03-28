@@ -8,7 +8,7 @@ Let me introduce myself!
 
 <br>Contact me in these links bellow:
 
-email: cxalexandre@outlook.com
+email: cxalexandre@outlook.com <br>
 Linkedin: https://www.linkedin.com/in/alexandrexisto/
 
 ![Other-html-5-icon](https://user-images.githubusercontent.com/85184457/160262841-7157ca0d-8fb7-4cc4-a21d-d0584d999423.png)![logo-css-3-256](https://user-images.githubusercontent.com/85184457/160262849-3ec2351b-2d35-44f2-8020-9f02890f9ba1.png)
