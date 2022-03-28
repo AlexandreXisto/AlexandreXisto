@@ -1,4 +1,4 @@
-### Hello there! I'm Alexandre Xisto, really glad to see you here! 😉  Note: This Profile is under mainintence! 🚫
+### Hello there! I'm Alexandre Xisto, really glad to see you here! 😉  <p>Note: This Profile is under mainintence! 🚫</p>
 Let me introduce myself!
 
 Front-end Development in Improving! 🚀
