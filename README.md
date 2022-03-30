@@ -1,9 +1,14 @@
 ### Hello there! I'm Alexandre Xisto, really glad to see you here! 😉  <p>Note: This Profile is under mainintence! 🚫</p>
-Let me introduce myself!
 
 <a href ="https://www.linkedin.com/in/alexandrexisto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 
 <a href ="mailto:cxalexandre@outlook.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
+<li>Front-end Development in Improving! 🚀</li>
+<li>I'm studying Front-End frameworkd as Javascript 🚀</li>
+<li>I'm looking for a Job as Front-End Development</li> 
+<li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
+<li>Work from Home 🏠</li><br>
 
 <div>
  <a href="https://github.com/AlexandreXisto"></a>
@@ -25,11 +30,7 @@ I've some experience with:<br>
 <br>
 
  
-<li>Front-end Development in Improving! 🚀</li>
-<li>I'm studying Front-End frameworkd as Javascript 🚀</li>
-<li>I'm looking for a Job as Front-End Development</li> 
-<li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
-<li>Work from Home 🏠</li>
+
  
 <!--
 **AlexandreXisto/AlexandreXisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
