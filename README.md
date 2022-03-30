@@ -2,9 +2,10 @@
 Let me introduce myself!
 
 <div>
- <a href="https://github.com/AlexandreXisto">
+ <a href="https://github.com/AlexandreXisto"></a>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/><br><br>
 I've some experience with:<br>
+  
 <div style="display: inline_block">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
