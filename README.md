@@ -1,10 +1,16 @@
 ### Hello there! I'm Alexandre Xisto, really glad to see you here! 😉  <p>Note: This Profile is under mainintence! 🚫</p>
 Let me introduce myself!
 
+<div>
+ <a href="https://github.com/AlexandreXisto">
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=dark&show_icons=true"/>
+  
+
 <li>Front-end Development in Improving! 🚀</li>
 <li>I'm studying Front-End frameworkd as Javascript 🚀</li>
 <li>I'm looking for a Job as Front-End Development</li> 
 <li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
+<li>Work from Home 🏠</li>
 
 <br>Contact me in these links bellow:
 
