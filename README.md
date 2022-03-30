@@ -3,7 +3,7 @@ Let me introduce myself!
 
 <div>
  <a href="https://github.com/AlexandreXisto">
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/>
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/><br>
   
 
 <li>Front-end Development in Improving! 🚀</li>
