@@ -4,7 +4,11 @@ Let me introduce myself!
 <div>
  <a href="https://github.com/AlexandreXisto"></a>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/><br><br>
+<a href ="https://www.linkedin.com/in/alexandrexisto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ 
 I've some experience with:<br>
+ 
+ 
   
 <div style="display: inline_block">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -16,6 +20,7 @@ I've some experience with:<br>
 </div>
 <br>
 
+ <a href = "https://www.linkedin.com/in/alexandrexisto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <li>Front-end Development in Improving! 🚀</li>
 <li>I'm studying Front-End frameworkd as Javascript 🚀</li>
 <li>I'm looking for a Job as Front-End Development</li> 
