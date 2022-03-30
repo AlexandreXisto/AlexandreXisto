@@ -4,7 +4,7 @@ Let me introduce myself!
 <div>
  <a href="https://github.com/AlexandreXisto"></a>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/><br><br>
-<a href ="https://www.linkedin.com/in/alexandrexisto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href ="https://www.linkedin.com/in/alexandrexisto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 I've some experience with:<br>
  
