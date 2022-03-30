@@ -30,13 +30,6 @@ I've some experience with:<br>
 <li>I'm looking for a Job as Front-End Development</li> 
 <li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
 <li>Work from Home 🏠</li>
-
-
-
-Email: cxalexandre@outlook.com <br>
-
-
-
  
 <!--
 **AlexandreXisto/AlexandreXisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
