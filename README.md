@@ -23,8 +23,8 @@
 
 <div>
  <a href="https://github.com/AlexandreXisto"></a>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/><br><br>
-<img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreXisto&theme=blue-green">
+<img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=AlexandreXisto&theme=aura&show_icons=true"/>
+<img height="300cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreXisto&theme=blue-green"/>
  
 
 
