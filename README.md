@@ -4,9 +4,9 @@
 
 <a href ="mailto:cxalexandre@outlook.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
-<li>Front-end Development in Improving! 🚀</li>
+<li>Front-end Developer in Improving! 🚀</li>
 <li>I'm studying Front-End frameworkd as Javascript 🚀</li>
-<li>I'm looking for a Job as Front-End Development</li> 
+<li>I'm looking for a Job as Front-End Developer</li> 
 <li>I'm currently unployed, but put all of my effort in my bootcamps and projects!</li>
 <li>Work from Home 🏠</li><br>
 
