@@ -1,6 +1,8 @@
 ### Hello there! I'm Alexandre Xisto - Front-End Developer
-  I don't have a lot of work experiencies in this area, but i have great skills as to be curious, resilient and organize, like to resolve problems and help my team. Currently, i have been put my effort in my Projects, mainly frameworks as Javascript, i used to work with HTML and CSS.
+  I don't have a lot of work experiencies in this area, but i have great skills as to be curious, resilient and organize, like to resolve problems and help my team. Currently, i have been put my effort in my Projects, mainly frameworks as Javascript, i used to work with HTML and CSS.<br>
+  
   I apreciate to work with good practices, clean codes and organized goals.<br>
+  
   I also have some knowlegde in tools back-end development as Python and C Language.
   
   I've some experience with:<br>
