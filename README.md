@@ -3,9 +3,9 @@
   
   I apreciate to work with good practices, clean codes and organized goals.<br>
   
-  I also have some knowlegde in tools back-end development as Python and C Language.
+  I also have some knowledge in tools back-end development as Python and C Language.
   
-  Knowloegde in Database as Beekeeper and SQL.
+  Knowlegde in Database as Beekeeper and SQL.
   
   I've some experience with:<br>
   <div style="display: inline_block"><a href="https://github.com/AlexandreXisto">
