@@ -1,9 +1,11 @@
 ### Hello there! I'm Alexandre Xisto - Front-End Developer
-  I have great skills as to be curious, resilient and organize, like to resolve problems and help my team. Currently, i have been put my effort in my Projects, mainly frameworks as Javascript, i used to work with HTML and CSS.<br>
+  I have great soft skills as to be curious, resilient and organize, like to resolve problems and help my team. Currently, i have been put my effort in my Projects, mainly frameworks as Javascript, i used to work with HTML, CSS and Boostrap.<br>
   
   I apreciate to work with good practices, clean codes and organized goals.<br>
   
   I also have some knowlegde in tools back-end development as Python and C Language.
+  
+  Knowloegde in Database as Beekeeper and SQL.
   
   I've some experience with:<br>
   <div style="display: inline_block"><a href="https://github.com/AlexandreXisto">
